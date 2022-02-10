@@ -1,0 +1,9 @@
+@import 'config';
+@import 'responsive';
+body{
+    background: green;
+}
+input{
+    min-width: 2em;
+    font-size: 2em;
+}
